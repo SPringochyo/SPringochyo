@@ -1,3 +1,4 @@
+<img width="1290" height="595" alt="изображение" src="https://github.com/SPringochyo/SPringochyo/blob/main/pictures/pic1.jpeg" />
 
 ---
 # 💫 About Me:
@@ -18,4 +19,3 @@ Hello everyone! I'm SPringochyo, a programming student. I enjoy Python and C++, 
 ![](https://github-profile-trophy.vercel.app/?username=SPringochyo&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SPringochyo&icon=0&color=0)](https://visitcount.itsvg.in)
