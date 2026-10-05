@@ -1,4 +1,4 @@
-<img width="1290" height="595" alt="изображение" src="https://github.com/SPringochyo/SPringochyo/blob/main/pictures/pic1.jpeg" />
+<img alt="изображение" src="https://github.com/SPringochyo/SPringochyo/blob/main/pictures/springochyo_manga_style1.jpg" />
 
 ---
 # 💫 About Me:
